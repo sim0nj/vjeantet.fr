@@ -6,8 +6,6 @@ draft: false
 tags: ["GenAI", "DevSecOps", "skills", "AI"]
 ---
 
-<div class="tldr">
-
 This week I read several papers on the changing nature of software. One sentence stuck with me:
 
 > "Did I write the right line?" becomes "did I check what the machine produced?"

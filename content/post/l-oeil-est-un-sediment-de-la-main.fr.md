@@ -6,8 +6,6 @@ draft: false
 tags: ["GenAI", "DevSecOps", "compétences", "IA"]
 ---
 
-<div class="tldr">
-
 Je lisais cette semaine plusieurs papiers sur le changement de nature du logiciel. Une phrase m'est restée :
 
 > « Ai-je écrit la bonne ligne ? » devient « ai-je vérifié ce que la machine a produit ? »
